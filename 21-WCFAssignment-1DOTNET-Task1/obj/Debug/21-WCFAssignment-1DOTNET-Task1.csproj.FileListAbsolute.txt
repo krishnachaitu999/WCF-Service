@@ -1,0 +1,6 @@
+D:\Full Stack Developer\Assignments\Completed Assignments\21-WCFAssignment-1DOTNET-Task1\21-WCFAssignment-1DOTNET-Task1\bin\21-WCFAssignment-1DOTNET-Task1.dll.config
+D:\Full Stack Developer\Assignments\Completed Assignments\21-WCFAssignment-1DOTNET-Task1\21-WCFAssignment-1DOTNET-Task1\bin\21-WCFAssignment-1DOTNET-Task1.dll
+D:\Full Stack Developer\Assignments\Completed Assignments\21-WCFAssignment-1DOTNET-Task1\21-WCFAssignment-1DOTNET-Task1\bin\21-WCFAssignment-1DOTNET-Task1.pdb
+D:\Full Stack Developer\Assignments\Completed Assignments\21-WCFAssignment-1DOTNET-Task1\21-WCFAssignment-1DOTNET-Task1\obj\Debug\21-WCFAssignment-1DOTNET-Task1.dll
+D:\Full Stack Developer\Assignments\Completed Assignments\21-WCFAssignment-1DOTNET-Task1\21-WCFAssignment-1DOTNET-Task1\obj\Debug\21-WCFAssignment-1DOTNET-Task1.pdb
+D:\Full Stack Developer\Assignments\Completed Assignments\21-WCFAssignment-1DOTNET-Task1\21-WCFAssignment-1DOTNET-Task1\obj\Debug\21-WCFAssignment-1DOTNET-Task1.csprojResolveAssemblyReference.cache
